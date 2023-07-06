@@ -1,0 +1,22 @@
+loss for 0.1 noise is : 0.07381295412778854
+loss for 0.2 noise is : 0.07556547969579697
+loss for 0.3 noise is : 0.07860612869262695
+loss for 0.4 noise is : 0.08372949063777924
+loss for 0.5 noise is : 0.0925438404083252
+loss for 0.6 noise is : 0.10992729663848877
+loss for 0.7 noise is : 0.14326363801956177
+loss for 0.8 noise is : 0.18981482088565826
+loss for 0.9 noise is : 0.23877368867397308
+
+--------------------------------------------
+Unet - tests 
+
+Loss for 0.1 is : 0.06906282156705856
+Loss for 0.2 is : 0.07065951824188232
+Loss for 0.3 is : 0.07325461506843567
+Loss for 0.4 is : 0.07721332460641861
+Loss for 0.5 is : 0.08320611715316772
+Loss for 0.6 is : 0.09250664710998535
+Loss for 0.7 is : 0.10816674679517746
+Loss for 0.8 is : 0.13197024166584015
+Loss for 0.9 is : 0.16182978451251984
